@@ -1,6 +1,6 @@
 ﻿{
   "version": 2,
-  "builds": [],
+  "public": "public",
   "routes": [
     { "src": "/.*", "status": 200, "dest": "/" }
   ]
